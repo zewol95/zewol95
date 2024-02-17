@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">I am passionate about modern technology and the development of new DIY hardware and software solutions.</h3>
 
-- 🔭 I’m currently working on **home automation** 
-- ⏭️ I'll work on **fire detecnion** in home scenario
+- 💻 My job is as an electrical specialist in the industrial sector
+- 🔭 In my freetime..I’m currently working on **home automation** 
 - 🚗 My Car is a Peugeot 💝
 - ⚡ I like TV Series: Snowpiercer, TheWalkingDead, Lost 💝
 
