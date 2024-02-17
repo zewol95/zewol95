@@ -1,4 +1,11 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h3 align="center">I am passionate about modern technology and the development of new DIY hardware and software solutions.</h3>
+
+- 🔭 I’m currently working on **home automation** 
+- ⏭️ I'll work on **fire detecnion** in home scenario
+- 🚗 My Car is a Peugeot 💝
+- ⚡ I like TV Series: Snowpiercer, TheWalkingDead, Lost 💝
 
 <!--
 **zewol95/zewol95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
