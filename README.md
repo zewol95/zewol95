@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h1 align="center">Hi 👋, I'm Andrea7777</h1>
 <h3 align="center">I am passionate about modern technology and the development of new DIY hardware and software solutions.</h3>
 
 - 💻 My job is as an electrical specialist in the industrial sector
