@@ -9,7 +9,7 @@
 
 - [**HomeAssistant-BeyondHome**](https://github.com/zewol95)
   Exploring the versatile potential of Home Assistant beyond home automation, extending into industrial applications and smart environments.
-  
+
 - [**ESPHome-Boilerplates**](https://github.com/zewol95/ESPHome-Boilerplates)  
   A personal collection of ESPHome templates and configurations for ESP32 sensors and Home Assistant.
 
