@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1> 
 <h3 align="center">I am passionate about modern technology and the development of new DIY hardware and software solutions.</h3>
 
-I am passionate about modern technology and the development of new DIY hardware and software solutions.
-
-- 💻 My job is as an electrical specialist in the industrial sector  
+- 💻 My job is as an electrical specialist in the industrial sector.  
 - 🔭 In my freetime..I like developing IoT devices and studying new technologies.  
 - ⚡ I’m also a fan of Linux and Docker.
 
