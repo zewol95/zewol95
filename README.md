@@ -7,6 +7,9 @@
 
 ### Check out my repositories:
 
+- [**Linux-Cheatsheets**](https://github.com/zewol95/Linux-Cheatsheets)  
+   A personal collection of essential Linux commands for quick reference.
+
 - [**HomeAssistant-BeyondHome**](https://github.com/zewol95)  
   Exploring the versatile potential of Home Assistant beyond home automation, extending into industrial applications and smart environments.
 
