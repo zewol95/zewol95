@@ -11,7 +11,7 @@
    A personal collection of essential Linux commands for quick reference.
 
 - [**HomeAssistant-BeyondHome**](https://github.com/zewol95)  
-  Exploring the versatile potential of Home Assistant beyond home automation, extending into industrial applications and smart environments.
+  Exploring the versatile potential of Home Assistant beyond home automation, extending into industrial applications and smart environments (Coming Soon!) .
 
 - [**ESPHome-Boilerplates**](https://github.com/zewol95/ESPHome-Boilerplates)  
   A personal collection of ESPHome templates and configurations for ESP32 sensors and Home Assistant.
